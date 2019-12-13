@@ -1,0 +1,45 @@
+2.0.2 / 2019-11-08
+==================
+
+ * Fixed: inline editor does not work for certain types of element
+ * Fixed: UI glitches on older versions of IE
+ * Fixed: compatibility issues with older version of IE
+ * Fixed: compatibility issues with older version of Opera
+ * Fixed: more compatible HTTP headers for Ajax requests
+ * Added: more flexible editor mode
+ * Added: more decoration widgets
+ * Added: more preview options
+ * Added: support adding selected item to library for reuse
+ * Added: support for HTTP 1.1 methods PUT, UPDATE, PATCH, DELETE
+ * Added: more SYNC options
+ * Added: convenient TAGS editing
+ * Added: better TAG autocommplete when typing
+ * Added: better TAG preview panel
+
+2.0.0 / 2019-09-23
+==================
+
+ * Added: responsive support for old email clients
+ * Added: full Edge 11 compatibility
+ * Added: design view supported for older browsers
+ * Added: template font issue per saving
+ * Added: more HTML widgets for the core library
+ * Added: template switching in design view
+ * Added: cloud synchronization support
+ * Added: more drag & drop visual effect 
+ * Fixed: open/click tracking not working correctly
+ * Fixed: custom widget does not preserve content
+
+1.9.3 / 2019-06-06
+==================
+
+ * Added: more layout widgets
+ * Added: full Opera compatibility
+ * Added: customizable headers for Ajax request
+ * Added: detection of invalid HTML structure
+ * Added: more HTML widgets for the core library
+ * Added: use cache to boost template load performance
+ * Added: sync options in construction parameters
+ * Added: double view support
+ * Added: source view with syntax highlight theme
+ * Added: the first publicly available version
